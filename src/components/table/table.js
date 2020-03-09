@@ -6,7 +6,7 @@ class Data extends Component {
 
   render() {
     return(
-      <div className="App">
+      <div className="">
         <div className="container">
           <div className="row mb-4">
             <div className="col-sm-12 grid-margin">
@@ -28,17 +28,6 @@ class Data extends Component {
                         <td>Mark</td>
                         <td>Otto</td>
                         <td>@mdo</td>
-                      </tr>
-                      <tr>
-                        <td>2</td>
-                        <td>Jacob</td>
-                        <td>Thornton</td>
-                        <td>@fat</td>
-                      </tr>
-                      <tr>
-                        <td>3</td>
-                        <td colSpan="2">Larry the Bird</td>
-                        <td>@twitter</td>
                       </tr>
                     </tbody>
                   </Table>

@@ -4,7 +4,7 @@ import { Navbar, Nav, NavDropdown, Form, FormControl, Button } from 'react-boots
 class NavBar extends Component {
     render(){
         return(
-            <div>
+            <div className="">
                 <header>
                     <Navbar expand="lg" variant="dark" bg="dark">
                     <Navbar.Brand href="#home">React-Bootstrap</Navbar.Brand>

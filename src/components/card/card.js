@@ -5,7 +5,7 @@ import { Button } from 'react-bootstrap';
 class Card extends Component {
     render(){
         return(
-            <div>
+            <div className="">
                 <div className="container">
                     <div className="row mt-5">
                         <div className="col-lg-4 mb-4 grid-margin">
